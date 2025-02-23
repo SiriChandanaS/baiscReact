@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+.container{
+  border:2px solid black;
+  background-color: lightgray;
+  color:navy
+}
+
+.para{
+  border:1px dashed gray;
+  background-color: white;
+  color: darkblue;
+}
